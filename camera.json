@@ -1,0 +1,121 @@
+{
+  "camera": [
+    {
+      "id": 0,
+      "registered": "2017-04-17T02:40:15 -03:00",
+      "isActive": false,
+      "user": "Baker Forbes",
+      "address": "605 Tabor Court, Malott, Colorado, 583",
+      "latitude": 56.353358,
+      "longitude": -6.001979,
+      "tags": [
+        88,
+        945,
+        734,
+        525
+      ]
+    },
+    {
+      "id": 1,
+      "registered": "2014-12-16T12:36:35 -03:00",
+      "isActive": true,
+      "user": "Morrison Guthrie",
+      "address": "710 Hutchinson Court, Gwynn, Alabama, 7750",
+      "latitude": -11.149786,
+      "longitude": 149.917792,
+      "tags": [
+        430,
+        844,
+        249,
+        183
+      ]
+    },
+    {
+      "id": 2,
+      "registered": "2014-01-27T05:09:45 -03:00",
+      "isActive": true,
+      "user": "Jewell Stanley",
+      "address": "131 Poplar Street, Greenbackville, Michigan, 670",
+      "latitude": -42.900201,
+      "longitude": 38.569121,
+      "tags": [
+        319,
+        220,
+        895,
+        369,
+        299
+      ]
+    },
+    {
+      "id": 3,
+      "registered": "2016-04-15T04:18:07 -03:00",
+      "isActive": true,
+      "user": "Debora Mcclure",
+      "address": "265 National Drive, Westmoreland, Maryland, 4734",
+      "latitude": 57.874958,
+      "longitude": 47.413377,
+      "tags": [
+        109,
+        579,
+        869
+      ]
+    },
+    {
+      "id": 4,
+      "registered": "2014-08-27T04:49:00 -03:00",
+      "isActive": false,
+      "user": "Rhodes Frye",
+      "address": "558 Howard Alley, Graniteville, Connecticut, 9365",
+      "latitude": -87.308257,
+      "longitude": -65.475309,
+      "tags": [
+        27,
+        275,
+        916,
+        283,
+        867
+      ]
+    },
+    {
+      "id": 5,
+      "registered": "2015-10-30T08:01:54 -03:00",
+      "isActive": false,
+      "user": "Lori Haney",
+      "address": "141 Veterans Avenue, Juntura, Georgia, 7230",
+      "latitude": 2.347653,
+      "longitude": 93.742559,
+      "tags": [
+        420,
+        295,
+        461,
+        444,
+        229
+      ]
+    },
+    {
+      "id": 6,
+      "registered": "2014-05-22T03:02:56 -03:00",
+      "isActive": true,
+      "user": "Cochran Barber",
+      "address": "604 Gates Avenue, Glenbrook, New Jersey, 2008",
+      "latitude": -77.444765,
+      "longitude": -44.183429,
+      "tags": [
+        978,
+        842,
+        829,
+        628,
+        971
+      ]
+    },
+    {
+      "id": 7,
+      "registered": "2017",
+      "isActive": true,
+      "user": "Alex Cheels",
+      "address": "Kiev,Ukraine",
+      "latitude": -42.900201,
+      "longitude": 38.569121
+    }
+  ]
+}
